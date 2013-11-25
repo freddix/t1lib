@@ -1,7 +1,7 @@
 Summary:	A library for character- and string-glyphs from Adobe Type 1 fonts
 Name:		t1lib
 Version:	5.1.2
-Release:	3
+Release:	4
 License:	LGPL
 Group:		Libraries
 Source0:	ftp://sunsite.unc.edu/pub/Linux/libs/graphics/%{name}-%{version}.tar.gz
